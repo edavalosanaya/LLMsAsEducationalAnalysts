@@ -1,0 +1,2546 @@
+{
+    "type": "body",
+    "top_left": [
+        0,
+        0
+    ],
+    "bottom_right": [
+        4250,
+        5500
+    ],
+    "total_words": 110,
+    "children": [
+        {
+            "type": "page",
+            "top_left": [
+                0,
+                0
+            ],
+            "bottom_right": [
+                1,
+                1
+            ],
+            "total_words": 110,
+            "children": [
+                {
+                    "type": "title",
+                    "top_left": [
+                        0.17058823529411765,
+                        0.1333581818181817
+                    ],
+                    "bottom_right": [
+                        0.37688447058823527,
+                        0.15108545454545452
+                    ],
+                    "total_words": 3,
+                    "children": [
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.17058823529411765,
+                                0.1333581818181817
+                            ],
+                            "bottom_right": [
+                                0.37688447058823527,
+                                0.15108545454545452
+                            ],
+                            "total_words": 3,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.17058823529411765,
+                                        0.1333581818181817
+                                    ],
+                                    "bottom_right": [
+                                        0.2697170588235294,
+                                        0.15108545454545452
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "\u201cLizards\u201d",
+                                    "address": "0.0.0.0.0",
+                                    "absolute_address": 0,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.27549823529411765,
+                                        0.1333581818181817
+                                    ],
+                                    "bottom_right": [
+                                        0.2869688235294118,
+                                        0.15108545454545452
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "\u2013",
+                                    "address": "0.0.0.0.1",
+                                    "absolute_address": 1,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.29274999999999995,
+                                        0.1333581818181817
+                                    ],
+                                    "bottom_right": [
+                                        0.37688447058823527,
+                                        0.15108545454545452
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "Reading",
+                                    "address": "0.0.0.0.2",
+                                    "absolute_address": 2,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.0.0",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.040000000000077,
+                                "text": "\u201cLizards\u201d \u2013 Reading"
+                            }
+                        }
+                    ],
+                    "value": "",
+                    "address": "0.0.0",
+                    "absolute_address": 0,
+                    "meta_data": {
+                        "column_id": 0,
+                        "font_size": 14.040000000000077
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "top_left": [
+                        0.17058823529411765,
+                        0.20457030303030302
+                    ],
+                    "bottom_right": [
+                        0.8518769411764693,
+                        0.2994112121212123
+                    ],
+                    "total_words": 38,
+                    "children": [
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.17058823529411765,
+                                0.20457030303030302
+                            ],
+                            "bottom_right": [
+                                0.8013421176470584,
+                                0.22229757575757583
+                            ],
+                            "total_words": 11,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.17058823529411765,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.24699152941176472,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "Lizards",
+                                    "address": "0.0.1.0.0",
+                                    "absolute_address": 3,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.25275664705882356,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.321103,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "extend",
+                                    "address": "0.0.1.0.1",
+                                    "absolute_address": 4,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.32689335294117644,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.34850394117647054,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "or",
+                                    "address": "0.0.1.0.2",
+                                    "absolute_address": 5,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.3541497647058823,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.3978779411764705,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "flick",
+                                    "address": "0.0.1.0.3",
+                                    "absolute_address": 6,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4035673529411764,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.45107623529411756,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "their",
+                                    "address": "0.0.1.0.4",
+                                    "absolute_address": 7,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4567220588235294,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.5372318235294118,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "tongues",
+                                    "address": "0.0.1.0.5",
+                                    "absolute_address": 8,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5429992352941175,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.5629764117647057,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "to",
+                                    "address": "0.0.1.0.6",
+                                    "absolute_address": 9,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5684891764705882,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.6132749411764706,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "help",
+                                    "address": "0.0.1.0.7",
+                                    "absolute_address": 10,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6189024117647057,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.6709307058823527,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "them",
+                                    "address": "0.0.1.0.8",
+                                    "absolute_address": 11,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6765581764705879,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.7484168235294114,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "\"sense\"",
+                                    "address": "0.0.1.0.9",
+                                    "absolute_address": 12,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7540259411764703,
+                                        0.20457030303030302
+                                    ],
+                                    "bottom_right": [
+                                        0.8013421176470584,
+                                        0.22229757575757583
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "their",
+                                    "address": "0.0.1.0.10",
+                                    "absolute_address": 13,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.1.0",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.040000000000077,
+                                "text": "Lizards extend or flick their tongues to help them \"sense\" their"
+                            }
+                        },
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.17058823529411765,
+                                0.2303280303030303
+                            ],
+                            "bottom_right": [
+                                0.8518769411764693,
+                                0.24805530303030313
+                            ],
+                            "total_words": 8,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.17058823529411765,
+                                        0.2303280303030303
+                                    ],
+                                    "bottom_right": [
+                                        0.3070928235294117,
+                                        0.24805530303030313
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "environment.",
+                                    "address": "0.0.1.1.0",
+                                    "absolute_address": 14,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.3127340588235294,
+                                        0.2303280303030303
+                                    ],
+                                    "bottom_right": [
+                                        0.35116970588235286,
+                                        0.24805530303030313
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "The",
+                                    "address": "0.0.1.1.1",
+                                    "absolute_address": 15,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.35684994117647056,
+                                        0.2303280303030303
+                                    ],
+                                    "bottom_right": [
+                                        0.4774562941176473,
+                                        0.24805530303030313
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "information",
+                                    "address": "0.0.1.1.2",
+                                    "absolute_address": 16,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.48312276470588256,
+                                        0.2303280303030303
+                                    ],
+                                    "bottom_right": [
+                                        0.5730108823529413,
+                                        0.24805530303030313
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "gathered",
+                                    "address": "0.0.1.1.3",
+                                    "absolute_address": 17,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5788012352941176,
+                                        0.2303280303030303
+                                    ],
+                                    "bottom_right": [
+                                        0.6202972352941175,
+                                        0.24805530303030313
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "tells",
+                                    "address": "0.0.1.1.4",
+                                    "absolute_address": 18,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6260646470588234,
+                                        0.2303280303030303
+                                    ],
+                                    "bottom_right": [
+                                        0.6780883529411761,
+                                        0.24805530303030313
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "them",
+                                    "address": "0.0.1.1.5",
+                                    "absolute_address": 19,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6837158235294114,
+                                        0.2303280303030303
+                                    ],
+                                    "bottom_right": [
+                                        0.7154893529411761,
+                                        0.24805530303030313
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "the",
+                                    "address": "0.0.1.1.6",
+                                    "absolute_address": 20,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7209722941176465,
+                                        0.2303280303030303
+                                    ],
+                                    "bottom_right": [
+                                        0.8518769411764693,
+                                        0.24805530303030313
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "whereabouts",
+                                    "address": "0.0.1.1.7",
+                                    "absolute_address": 21,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.1.1",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.040000000000077,
+                                "text": "environment. The information gathered tells them the whereabouts"
+                            }
+                        },
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.17058823529411765,
+                                0.25608575757575763
+                            ],
+                            "bottom_right": [
+                                0.8481329411764704,
+                                0.27381303030303045
+                            ],
+                            "total_words": 13,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.17058823529411765,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.1907764705882353,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "of",
+                                    "address": "0.0.1.2.0",
+                                    "absolute_address": 22,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.19646588235294118,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.243025,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "food",
+                                    "address": "0.0.1.2.1",
+                                    "absolute_address": 23,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.24881535294117646,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.2875377647058824,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "and",
+                                    "address": "0.0.1.2.2",
+                                    "absolute_address": 24,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.29332811764705885,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.3588779411764706,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "mates,",
+                                    "address": "0.0.1.2.3",
+                                    "absolute_address": 25,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.36431729411764713,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.40323700000000007,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "and",
+                                    "address": "0.0.1.2.4",
+                                    "absolute_address": 26,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4088277647058824,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.4714961764705884,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "warns",
+                                    "address": "0.0.1.2.5",
+                                    "absolute_address": 27,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4772612941176472,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.5292918823529412,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "them",
+                                    "address": "0.0.1.2.6",
+                                    "absolute_address": 28,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5349216470588236,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.5551098823529413,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "of",
+                                    "address": "0.0.1.2.7",
+                                    "absolute_address": 29,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.560599705882353,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.5923732352941177,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "the",
+                                    "address": "0.0.1.2.8",
+                                    "absolute_address": 30,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5980626470588236,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.6870973529411762,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "presence",
+                                    "address": "0.0.1.2.9",
+                                    "absolute_address": 31,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6927867647058822,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.7129749999999999,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "of",
+                                    "address": "0.0.1.2.10",
+                                    "absolute_address": 32,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7186644117647057,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.8071691764705881,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "enemies.",
+                                    "address": "0.0.1.2.11",
+                                    "absolute_address": 33,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.8128104117647057,
+                                        0.25608575757575763
+                                    ],
+                                    "bottom_right": [
+                                        0.8481329411764704,
+                                        0.27381303030303045
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "But",
+                                    "address": "0.0.1.2.12",
+                                    "absolute_address": 34,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.1.2",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.040000000000077,
+                                "text": "of food and mates, and warns them of the presence of enemies. But"
+                            }
+                        },
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.17058823529411765,
+                                0.2816839393939395
+                            ],
+                            "bottom_right": [
+                                0.5173188823529413,
+                                0.2994112121212123
+                            ],
+                            "total_words": 6,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.17058823529411765,
+                                        0.2816839393939395
+                                    ],
+                                    "bottom_right": [
+                                        0.2180810588235294,
+                                        0.2994112121212123
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "their",
+                                    "address": "0.0.1.3.0",
+                                    "absolute_address": 35,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.22372917647058824,
+                                        0.2816839393939395
+                                    ],
+                                    "bottom_right": [
+                                        0.3042412352941176,
+                                        0.2994112121212123
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "tongues",
+                                    "address": "0.0.1.3.1",
+                                    "absolute_address": 36,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.3100086470588235,
+                                        0.2816839393939395
+                                    ],
+                                    "bottom_right": [
+                                        0.35883435294117644,
+                                        0.2994112121212123
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "have",
+                                    "address": "0.0.1.3.2",
+                                    "absolute_address": 37,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.36431729411764713,
+                                        0.2816839393939395
+                                    ],
+                                    "bottom_right": [
+                                        0.4176945294117648,
+                                        0.2994112121212123
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "other",
+                                    "address": "0.0.1.3.3",
+                                    "absolute_address": 38,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.42334035294117667,
+                                        0.2816839393939395
+                                    ],
+                                    "bottom_right": [
+                                        0.473391117647059,
+                                        0.2994112121212123
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "uses,",
+                                    "address": "0.0.1.3.4",
+                                    "absolute_address": 39,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.47903005882352956,
+                                        0.2816839393939395
+                                    ],
+                                    "bottom_right": [
+                                        0.5173188823529413,
+                                        0.2994112121212123
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "too.",
+                                    "address": "0.0.1.3.5",
+                                    "absolute_address": 40,
+                                    "meta_data": {
+                                        "height": 0.017727272727272824
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.1.3",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.040000000000077,
+                                "text": "their tongues have other uses, too."
+                            }
+                        }
+                    ],
+                    "value": "",
+                    "address": "0.0.1",
+                    "absolute_address": 0,
+                    "meta_data": {
+                        "column_id": 0,
+                        "font_size": 14.040000000000077
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "top_left": [
+                        0.1705882352941176,
+                        0.3377375757575759
+                    ],
+                    "bottom_right": [
+                        0.8431317647058821,
+                        0.43273803030303054
+                    ],
+                    "total_words": 42,
+                    "children": [
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.1705882352941176,
+                                0.3377375757575759
+                            ],
+                            "bottom_right": [
+                                0.843131764705882,
+                                0.35546484848484866
+                            ],
+                            "total_words": 10,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.1705882352941176,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.18843647058823523,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "A",
+                                    "address": "0.0.2.0.0",
+                                    "absolute_address": 41,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.19412588235294115,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.33045611764705884,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "tree-dwelling",
+                                    "address": "0.0.2.0.1",
+                                    "absolute_address": 42,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.3361340588235294,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.44557952941176465,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "chameleon",
+                                    "address": "0.0.2.0.2",
+                                    "absolute_address": 43,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.45125058823529396,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.4676535294117646,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "is",
+                                    "address": "0.0.2.0.3",
+                                    "absolute_address": 44,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.47341864705882336,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.5051921764705881,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "the",
+                                    "address": "0.0.2.0.4",
+                                    "absolute_address": 45,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.510881588235294,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.6360669999999997,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "\"marksman\"",
+                                    "address": "0.0.2.0.5",
+                                    "absolute_address": 46,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6416761176470586,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.6618643529411763,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "of",
+                                    "address": "0.0.2.0.6",
+                                    "absolute_address": 47,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6675537647058821,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.6993272941176467,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "the",
+                                    "address": "0.0.2.0.7",
+                                    "absolute_address": 48,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7050167058823527,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.7703348235294115,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "reptile",
+                                    "address": "0.0.2.0.8",
+                                    "absolute_address": 49,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7760242352941172,
+                                        0.3377375757575759
+                                    ],
+                                    "bottom_right": [
+                                        0.843131764705882,
+                                        0.35546484848484866
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "world.",
+                                    "address": "0.0.2.0.9",
+                                    "absolute_address": 50,
+                                    "meta_data": {
+                                        "height": 0.017727272727272755
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.2.0",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.04000000000002,
+                                "text": "A tree-dwelling chameleon is the \"marksman\" of the reptile world."
+                            }
+                        },
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.1705882352941176,
+                                0.36349530303030325
+                            ],
+                            "bottom_right": [
+                                0.8372955294117636,
+                                0.38122257575757595
+                            ],
+                            "total_words": 15,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.1705882352941176,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.19541747058823525,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "Its",
+                                    "address": "0.0.2.1.0",
+                                    "absolute_address": 51,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.20118488235294116,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.2778887058823529,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "tongue,",
+                                    "address": "0.0.2.1.1",
+                                    "absolute_address": 52,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.2835299411764705,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.32844876470588225,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "kept",
+                                    "address": "0.0.2.1.2",
+                                    "absolute_address": 53,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.3341152352941175,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.3938173529411765,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "rolled",
+                                    "address": "0.0.2.1.3",
+                                    "absolute_address": 54,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.39960770588235295,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.4273183529411765,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "up",
+                                    "address": "0.0.2.1.4",
+                                    "absolute_address": 55,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4329458235294118,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.4529642941176472,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "in",
+                                    "address": "0.0.2.1.5",
+                                    "absolute_address": 56,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.45863076470588243,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.48228082352941193,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "its",
+                                    "address": "0.0.2.1.6",
+                                    "absolute_address": 57,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4880459411764708,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.5612328823529414,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "mouth,",
+                                    "address": "0.0.2.1.7",
+                                    "absolute_address": 58,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5666745294117649,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.5830682941176473,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "is",
+                                    "address": "0.0.2.1.8",
+                                    "absolute_address": 59,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5888357058823529,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.609937,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "as",
+                                    "address": "0.0.2.1.9",
+                                    "absolute_address": 60,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6157021176470587,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.6610017647058821,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "long",
+                                    "address": "0.0.2.1.10",
+                                    "absolute_address": 61,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6664824117647055,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.6877787058823525,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "as",
+                                    "address": "0.0.2.1.11",
+                                    "absolute_address": 62,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6935461176470582,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.7151589999999993,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "or",
+                                    "address": "0.0.2.1.12",
+                                    "absolute_address": 63,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.720804823529411,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.7859417058823519,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "longer",
+                                    "address": "0.0.2.1.13",
+                                    "absolute_address": 64,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7915898235294107,
+                                        0.36349530303030325
+                                    ],
+                                    "bottom_right": [
+                                        0.8372955294117636,
+                                        0.38122257575757595
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "than",
+                                    "address": "0.0.2.1.14",
+                                    "absolute_address": 65,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.2.1",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.039999999999964,
+                                "text": "Its tongue, kept rolled up in its mouth, is as long as or longer than"
+                            }
+                        },
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.1705882352941176,
+                                0.38925303030303054
+                            ],
+                            "bottom_right": [
+                                0.8212206470588224,
+                                0.40698030303030325
+                            ],
+                            "total_words": 12,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.1705882352941176,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.19443788235294113,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "its",
+                                    "address": "0.0.2.2.0",
+                                    "absolute_address": 66,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.20020529411764704,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.25789088235294116,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "body.",
+                                    "address": "0.0.2.2.1",
+                                    "absolute_address": 67,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.2635321176470588,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.32413352941176465,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "When",
+                                    "address": "0.0.2.2.2",
+                                    "absolute_address": 68,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.3297999999999999,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.36157352941176457,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "the",
+                                    "address": "0.0.2.2.3",
+                                    "absolute_address": 69,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.36705647058823526,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.47667858823529435,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "chameleon",
+                                    "address": "0.0.2.2.4",
+                                    "absolute_address": 70,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4823450588235296,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.5354057058823531,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "spots",
+                                    "address": "0.0.2.2.5",
+                                    "absolute_address": 71,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.541173117647059,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.5660941176470589,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "an",
+                                    "address": "0.0.2.2.6",
+                                    "absolute_address": 72,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5715701764705883,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.6357389411764705,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "insect,",
+                                    "address": "0.0.2.2.7",
+                                    "absolute_address": 73,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6413801764705879,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.6555257058823526,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "it",
+                                    "address": "0.0.2.2.8",
+                                    "absolute_address": 74,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6611921764705877,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.7264116470588229,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "shoots",
+                                    "address": "0.0.2.2.9",
+                                    "absolute_address": 75,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7321767647058817,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.7560264117647052,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "its",
+                                    "address": "0.0.2.2.10",
+                                    "absolute_address": 76,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7615942352941167,
+                                        0.38925303030303054
+                                    ],
+                                    "bottom_right": [
+                                        0.8212206470588224,
+                                        0.40698030303030325
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "sticky",
+                                    "address": "0.0.2.2.11",
+                                    "absolute_address": 77,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.2.2",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.039999999999964,
+                                "text": "its body. When the chameleon spots an insect, it shoots its sticky"
+                            }
+                        },
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.1705882352941176,
+                                0.41501075757575784
+                            ],
+                            "bottom_right": [
+                                0.5408312941176469,
+                                0.43273803030303054
+                            ],
+                            "total_words": 5,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.1705882352941176,
+                                        0.41501075757575784
+                                    ],
+                                    "bottom_right": [
+                                        0.24157741176470582,
+                                        0.43273803030303054
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "tongue",
+                                    "address": "0.0.2.3.0",
+                                    "absolute_address": 78,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.24725994117647057,
+                                        0.41501075757575784
+                                    ],
+                                    "bottom_right": [
+                                        0.2867279411764705,
+                                        0.43273803030303054
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "out,",
+                                    "address": "0.0.2.3.1",
+                                    "absolute_address": 79,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.29236917647058813,
+                                        0.41501075757575784
+                                    ],
+                                    "bottom_right": [
+                                        0.33109158823529405,
+                                        0.43273803030303054
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "and",
+                                    "address": "0.0.2.3.2",
+                                    "absolute_address": 80,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.3366846470588234,
+                                        0.41501075757575784
+                                    ],
+                                    "bottom_right": [
+                                        0.4721844117647058,
+                                        0.43273803030303054
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "zap!\u2014instant",
+                                    "address": "0.0.2.3.3",
+                                    "absolute_address": 81,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4778508823529411,
+                                        0.41501075757575784
+                                    ],
+                                    "bottom_right": [
+                                        0.5408312941176469,
+                                        0.43273803030303054
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "lunch.",
+                                    "address": "0.0.2.3.4",
+                                    "absolute_address": 82,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.2.3",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.039999999999964,
+                                "text": "tongue out, and zap!\u2014instant lunch."
+                            }
+                        }
+                    ],
+                    "value": "",
+                    "address": "0.0.2",
+                    "absolute_address": 0,
+                    "meta_data": {
+                        "column_id": 0,
+                        "font_size": 14.039999999999964
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "top_left": [
+                        0.17061117647058816,
+                        0.4710643939393942
+                    ],
+                    "bottom_right": [
+                        0.852631705882352,
+                        0.5145493939393941
+                    ],
+                    "total_words": 17,
+                    "children": [
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.17061117647058816,
+                                0.4710643939393942
+                            ],
+                            "bottom_right": [
+                                0.852631705882352,
+                                0.4887916666666669
+                            ],
+                            "total_words": 11,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.17061117647058816,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.20905141176470582,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "The",
+                                    "address": "0.0.3.0.0",
+                                    "absolute_address": 83,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.21473852941176463,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.32222941176470576,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "Australian",
+                                    "address": "0.0.3.0.1",
+                                    "absolute_address": 84,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.3276939999999999,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.46425823529411764,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "blue-tongued",
+                                    "address": "0.0.3.0.2",
+                                    "absolute_address": 85,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.469849,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.5251372352941178,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "skink",
+                                    "address": "0.0.3.0.3",
+                                    "absolute_address": 86,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5308174705882355,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.5872160588235295,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "sticks",
+                                    "address": "0.0.3.0.4",
+                                    "absolute_address": 87,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5929834705882353,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.6267391176470587,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "out",
+                                    "address": "0.0.3.0.5",
+                                    "absolute_address": 88,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.632405588235294,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.6711279999999997,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "and",
+                                    "address": "0.0.3.0.6",
+                                    "absolute_address": 89,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6769183529411762,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.7409586470588231,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "waves",
+                                    "address": "0.0.3.0.7",
+                                    "absolute_address": 90,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7467237647058819,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.7703784117647053,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "its",
+                                    "address": "0.0.3.0.8",
+                                    "absolute_address": 91,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.776143529411764,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.8028378823529404,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "fat",
+                                    "address": "0.0.3.0.9",
+                                    "absolute_address": 92,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.8085043529411756,
+                                        0.4710643939393942
+                                    ],
+                                    "bottom_right": [
+                                        0.852631705882352,
+                                        0.4887916666666669
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "blue",
+                                    "address": "0.0.3.0.10",
+                                    "absolute_address": 93,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.3.0",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.039999999999964,
+                                "text": "The Australian blue-tongued skink sticks out and waves its fat blue"
+                            }
+                        },
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.17061117647058816,
+                                0.4968221212121215
+                            ],
+                            "bottom_right": [
+                                0.5381150588235295,
+                                0.5145493939393941
+                            ],
+                            "total_words": 6,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.17061117647058816,
+                                        0.4968221212121215
+                                    ],
+                                    "bottom_right": [
+                                        0.24160035294117638,
+                                        0.5145493939393941
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "tongue",
+                                    "address": "0.0.3.1.0",
+                                    "absolute_address": 94,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.2472828823529411,
+                                        0.4968221212121215
+                                    ],
+                                    "bottom_right": [
+                                        0.26726464705882347,
+                                        0.5145493939393941
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "to",
+                                    "address": "0.0.3.1.1",
+                                    "absolute_address": 95,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.27297699999999986,
+                                        0.4968221212121215
+                                    ],
+                                    "bottom_right": [
+                                        0.3539662352941175,
+                                        0.5145493939393941
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "frighten",
+                                    "address": "0.0.3.1.2",
+                                    "absolute_address": 96,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.35963270588235285,
+                                        0.4968221212121215
+                                    ],
+                                    "bottom_right": [
+                                        0.4145447058823529,
+                                        0.5145493939393941
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "away",
+                                    "address": "0.0.3.1.3",
+                                    "absolute_address": 97,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4202249411764706,
+                                        0.4968221212121215
+                                    ],
+                                    "bottom_right": [
+                                        0.44387270588235295,
+                                        0.5145493939393941
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "its",
+                                    "address": "0.0.3.1.4",
+                                    "absolute_address": 98,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.4496378235294118,
+                                        0.4968221212121215
+                                    ],
+                                    "bottom_right": [
+                                        0.5381150588235295,
+                                        0.5145493939393941
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "enemies.",
+                                    "address": "0.0.3.1.5",
+                                    "absolute_address": 99,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.3.1",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.039999999999964,
+                                "text": "tongue to frighten away its enemies."
+                            }
+                        }
+                    ],
+                    "value": "",
+                    "address": "0.0.3",
+                    "absolute_address": 0,
+                    "meta_data": {
+                        "column_id": 0,
+                        "font_size": 14.039999999999964
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "top_left": [
+                        0.17061117647058816,
+                        0.5527339393939397
+                    ],
+                    "bottom_right": [
+                        0.8404384705882351,
+                        0.5962189393939397
+                    ],
+                    "total_words": 11,
+                    "children": [
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.17061117647058818,
+                                0.5527339393939397
+                            ],
+                            "bottom_right": [
+                                0.8404384705882351,
+                                0.5704612121212124
+                            ],
+                            "total_words": 10,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.17061117647058818,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.2442615294117646,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "Geckos",
+                                    "address": "0.0.4.0.0",
+                                    "absolute_address": 100,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.24982705882352937,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.2845439411764705,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "use",
+                                    "address": "0.0.4.0.1",
+                                    "absolute_address": 101,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.2902241764705882,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.3377169999999998,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "their",
+                                    "address": "0.0.4.0.2",
+                                    "absolute_address": 102,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.34336511764705874,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.3884674705882352,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "long",
+                                    "address": "0.0.4.0.3",
+                                    "absolute_address": 103,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.3941477058823529,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.4746597647058824,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "tongues",
+                                    "address": "0.0.4.0.4",
+                                    "absolute_address": 104,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.48042488235294123,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.5004066470588237,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "to",
+                                    "address": "0.0.4.0.5",
+                                    "absolute_address": 105,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5061190000000002,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.5586864117647061,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "clean",
+                                    "address": "0.0.4.0.6",
+                                    "absolute_address": 106,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.5641624705882354,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.611655294117647,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "their",
+                                    "address": "0.0.4.0.7",
+                                    "absolute_address": 107,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.6173034117647058,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.7872906470588233,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "faces\u2014including",
+                                    "address": "0.0.4.0.8",
+                                    "absolute_address": 108,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                },
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.7929571176470587,
+                                        0.5527339393939397
+                                    ],
+                                    "bottom_right": [
+                                        0.8404384705882351,
+                                        0.5704612121212124
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "their",
+                                    "address": "0.0.4.0.9",
+                                    "absolute_address": 109,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.4.0",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.039999999999964,
+                                "text": "Geckos use their long tongues to clean their faces\u2014including their"
+                            }
+                        },
+                        {
+                            "type": "line",
+                            "top_left": [
+                                0.17061117647058816,
+                                0.578491666666667
+                            ],
+                            "bottom_right": [
+                                0.2208844705882352,
+                                0.5962189393939397
+                            ],
+                            "total_words": 1,
+                            "children": [
+                                {
+                                    "type": "word",
+                                    "top_left": [
+                                        0.17061117647058816,
+                                        0.578491666666667
+                                    ],
+                                    "bottom_right": [
+                                        0.2208844705882352,
+                                        0.5962189393939397
+                                    ],
+                                    "total_words": 1,
+                                    "children": [],
+                                    "value": "eyes.",
+                                    "address": "0.0.4.1.0",
+                                    "absolute_address": 110,
+                                    "meta_data": {
+                                        "height": 0.017727272727272682
+                                    }
+                                }
+                            ],
+                            "value": "",
+                            "address": "0.0.4.1",
+                            "absolute_address": 0,
+                            "meta_data": {
+                                "size": 14.039999999999964,
+                                "text": "eyes."
+                            }
+                        }
+                    ],
+                    "value": "",
+                    "address": "0.0.4",
+                    "absolute_address": 0,
+                    "meta_data": {
+                        "column_id": 0,
+                        "font_size": 14.039999999999964
+                    }
+                },
+                {
+                    "type": "image",
+                    "top_left": [
+                        0.36764705882352944,
+                        0.6636363636363637
+                    ],
+                    "bottom_right": [
+                        0.6323529411764706,
+                        0.8227272727272728
+                    ],
+                    "total_words": -1,
+                    "children": [],
+                    "value": "",
+                    "address": "0.0.5",
+                    "absolute_address": 0,
+                    "meta_data": {}
+                }
+            ],
+            "value": "",
+            "address": "0.0",
+            "absolute_address": 0,
+            "meta_data": {
+                "aspect-ratio": 0.7727272727272727,
+                "page_number": 0
+            }
+        }
+    ],
+    "value": "",
+    "address": "0",
+    "absolute_address": 0,
+    "meta_data": {
+        "aspect-ratio": 0.7727272727272727,
+        "pdf_name": "Lizards"
+    }
+}
