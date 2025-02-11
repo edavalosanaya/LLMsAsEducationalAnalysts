@@ -3,5 +3,5 @@ scikit-learn
 xgboost
 shap
 openpyxl
-ace_tools
+tabulate
 
