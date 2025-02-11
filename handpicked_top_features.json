@@ -5,6 +5,7 @@
         "coldread_coverage_line_%",
         "coldread_dwell_time_pdf",
         "qa_fix_dispersion_mean",
-        "qa_dwell_time_quiz"
+        "qa_dwell_time_quiz",
+        "qa_dwell_time_pdf"
     ]
 }
