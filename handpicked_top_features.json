@@ -1,7 +1,8 @@
 {
     "features": [
-        "total_forward_wpm_mean",
-        "coldread_coverage_word_%",
+        "coldread_gaze_wpm_median",
+        "coldread_gaze_wpm_std",
+        "coldread_coverage_line_%",
         "coldread_dwell_time_pdf",
         "qa_fix_dispersion_mean",
         "qa_dwell_time_quiz"
