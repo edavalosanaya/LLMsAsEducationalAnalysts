@@ -1,24 +1,24 @@
 Key Ideas and Details:
-CCSS.ELA-LITERACY.RL.5.1
+CCSS.ELA-LITERACY.RI.5.1
 Quote accurately from a text when explaining what the text says explicitly and when drawing inferences from the text.
-CCSS.ELA-LITERACY.RL.5.2
-Determine a theme of a story, drama, or poem from details in the text, including how characters in a story or drama respond to challenges or how the speaker in a poem reflects upon a topic; summarize the text.
-CCSS.ELA-LITERACY.RL.5.3
-Compare and contrast two or more characters, settings, or events in a story or drama, drawing on specific details in the text (e.g., how characters interact).
+CCSS.ELA-LITERACY.RI.5.2
+Determine two or more main ideas of a text and explain how they are supported by key details; summarize the text.
+CCSS.ELA-LITERACY.RI.5.3
+Explain the relationships or interactions between two or more individuals, events, ideas, or concepts in a historical, scientific, or technical text based on specific information in the text.
 Craft and Structure:
-CCSS.ELA-LITERACY.RL.5.4
-Determine the meaning of words and phrases as they are used in a text, including figurative language such as metaphors and similes.
-CCSS.ELA-LITERACY.RL.5.5
-Explain how a series of chapters, scenes, or stanzas fits together to provide the overall structure of a particular story, drama, or poem.
-CCSS.ELA-LITERACY.RL.5.6
-Describe how a narrator's or speaker's point of view influences how events are described.
+CCSS.ELA-LITERACY.RI.5.4
+Determine the meaning of general academic and domain-specific words and phrases in a text relevant to a grade 5 topic or subject area.
+CCSS.ELA-LITERACY.RI.5.5
+Compare and contrast the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas, concepts, or information in two or more texts.
+CCSS.ELA-LITERACY.RI.5.6
+Analyze multiple accounts of the same event or topic, noting important similarities and differences in the point of view they represent.
 Integration of Knowledge and Ideas:
-CCSS.ELA-LITERACY.RL.5.7
-Analyze how visual and multimedia elements contribute to the meaning, tone, or beauty of a text (e.g., graphic novel, multimedia presentation of fiction, folktale, myth, poem).
-CCSS.ELA-LITERACY.RL.5.8
-(RL.5.8 not applicable to literature)
-CCSS.ELA-LITERACY.RL.5.9
-Compare and contrast stories in the same genre (e.g., mysteries and adventure stories) on their approaches to similar themes and topics.
+CCSS.ELA-LITERACY.RI.5.7
+Draw on information from multiple print or digital sources, demonstrating the ability to locate an answer to a question quickly or to solve a problem efficiently.
+CCSS.ELA-LITERACY.RI.5.8
+Explain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point(s).
+CCSS.ELA-LITERACY.RI.5.9
+Integrate information from several texts on the same topic in order to write or speak about the subject knowledgeably.
 Range of Reading and Level of Text Complexity:
-CCSS.ELA-LITERACY.RL.5.10
-By the end of the year, read and comprehend literature, including stories, dramas, and poetry, at the high end of the grades 4-5 text complexity band independently and proficiently.
+CCSS.ELA-LITERACY.RI.5.10
+By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical texts, at the high end of the grades 4-5 text complexity band independently and proficiently.
