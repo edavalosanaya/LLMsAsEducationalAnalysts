@@ -1,6 +1,5 @@
 {
     "features": [
-        "total_duration",
         "coldread_gaze_wpm_median",
         "coldread_gaze_wpm_std",
         "coldread_coverage_line_%",
