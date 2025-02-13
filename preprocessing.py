@@ -28,7 +28,10 @@ dfs = pd.read_excel('./data/accumulative_metrics.xlsx', sheet_name=None)
 
 # For all assignments, drop the following columns
 for k, df in dfs.items():
-    dfs[k] = df.drop(columns=['group', 'valor_MAP', f"{k}_score", f"{k}_session_count"])
+    if k == 'Suffrage':
+        dfs[k] = df.drop(columns=['group', 'valor_MAP', f"{k}_session_count"])
+    else:
+        dfs[k] = df.drop(columns=['group', 'valor_MAP', f"{k}_score", f"{k}_session_count"])
 
     # Drop any rows that the field f"{k}_data_loss" is 1 or f"{k}_data_quality_is_good" is 0
     dfs[k] = dfs[k][dfs[k][f"{k}_data_loss"] == 0]
@@ -56,7 +59,7 @@ for group in ['GatesS', 'GatesT']:
         assignment_num_of_questions = num_of_questions[assignment_names.index(assessment)]
         columns_to_add += [f"{assessment}_{i+1}" for i in range(assignment_num_of_questions)]
 
-    group_df['total_score'] = group_df[columns_to_add].sum(axis=1)
+    group_df[f'{group}_score'] = group_df[columns_to_add].sum(axis=1) / len(columns_to_add)
 
     # Rename the item response columns from "Ants_1" to "GatesS_1"
     columns_to_rename = {}
@@ -70,7 +73,10 @@ for group in ['GatesS', 'GatesT']:
 
     # Compute mean of the top features
     for f in top_features:
-        group_df[f] = group_df[[f"{assessment}_{f}" for assessment in within_group]].mean(axis=1)
+        values = group_df[[f"{assessment}_{f}" for assessment in within_group]]
+        # Remove Nan or Infs from the list
+        values = values.replace([np.inf, -np.inf], np.nan).dropna()
+        group_df[f"{group}_{f}"] = values.mean(axis=1)
 
     # Columns to drop
     columns_to_drop = []
