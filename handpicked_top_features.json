@@ -1,6 +1,6 @@
 {
     "features": [
-        "coldread_stopwatch_wpm",
+        "coldread_gaze_wpm_median",
         "coldread_coverage_line_%",
         "coldread_dwell_time_pdf",
         "coldread_fix_dispersion_mean",
